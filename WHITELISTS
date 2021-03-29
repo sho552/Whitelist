@@ -4,7 +4,9 @@ userids = {
 [2419022534] = true,
 [2019988026] = true,
 [126276592] = true,
-[273496] = true
+[273496] = true,
+[137908] = true,
+[200168977] = true
 }
 return userids
 -- These will be our whitelisted users
